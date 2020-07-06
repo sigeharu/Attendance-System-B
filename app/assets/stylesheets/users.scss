@@ -61,3 +61,13 @@ btn-users-show {
   margin: 15px 0;
   width: 30%;
 }
+
+/* 曜日設定 土日の色変更 */
+
+.wday0 {
+  color: red;
+}
+
+.wday6 {
+  color: blue;
+}
